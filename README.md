@@ -1,4 +1,4 @@
-# Olá eu sou o Erick Novais da Hora, sou desenvolvedor C#
+# Olá eu sou o Erick Novais da Hora, sou analista e desenvolvedor de sistemas
 
 <div align="center">
   <a href="https://github.com/ericknovais">
