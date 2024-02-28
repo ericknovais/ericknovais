@@ -1,4 +1,4 @@
-# Prazer sou Erick Novais da Hora
+# Prazer, sou Erick Novais da Hora 
 <div>
   <p>
     <h3>Cargo Engenheiro de software júnior</h3>
