@@ -2,6 +2,7 @@
 <div>
   <p>
     <h3>Sou Engenheiro de software júnior</h3>
+
     
     •	Bom conhecimento da Linguagem C#;
     •	Acesso à dados no SQL Server com ADO.NET;
@@ -11,7 +12,6 @@
     •	Sólidos conhecimentos de Orientação a Objetos;
     •	Desenvolvimento em Camadas (Model, DAL, BLL) ;
     •	Bons conhecimentos de Arquitetura de Software (Domain Model e Repository);
-    </br>
   </p> 
 </dvi>
 
