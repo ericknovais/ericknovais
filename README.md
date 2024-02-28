@@ -1,7 +1,8 @@
 # Prazer sou Erick Novais da Hora
 <div>
   <p>
-    Sou Engenheiro de software júnior
+    <h3>Sou Engenheiro de software júnior</h3>
+    
     •	Bom conhecimento da Linguagem C#;
     •	Acesso à dados no SQL Server com ADO.NET;
     •	Acesso à dados com ORM´s Entity Framework e LinqToSQL;
