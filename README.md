@@ -3,8 +3,8 @@
   <p>
     <h3>Cargo Engenheiro de software júnior</h3>
 
-    Soft skills:
-      •	Bom conhecimento da Linguagem C#;
+    Hard skills:
+      •	Conhecimentos sólido da Linguagem C#;
       •	Acesso à dados no SQL Server com ADO.NET;
       •	Acesso à dados com ORM´s Entity Framework e LinqToSQL;
       •	Desenvolvimento de sistemas Web com ASP.NET Webforms e ASP.NET MVC;
