@@ -1,7 +1,7 @@
 # Prazer, sou Erick Novais da Hora 
 <div>
   <p>
-    <h3>Cargo Engenheiro de software júnior</h3>
+    <h3>Cargo Engenheiro de software</h3>
 
     Hard skills:
       •	Conhecimentos sólido da Linguagem C#;
