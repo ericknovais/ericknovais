@@ -1,23 +1,23 @@
 
 # Prazer, sou Erick Novais da Hora
 <table>
-<div>
-<div>
-  <p>
-    <h3>Engenheiro de software C#</h3>
-    Hard skills:
-      •	Conhecimentos sólido da Linguagem C#;
-      •	Acesso à dados no SQL Server com ADO.NET;
-      •	Acesso à dados com ORM´s Entity Framework e LinqToSQL;
-      •	Desenvolvimento de sistemas Web com ASP.NET Webforms e ASP.NET MVC;
-      •	Uso de HTML 5, CSS 3, JavaScript com JQuery;
-      •	Sólidos conhecimentos de Orientação a Objetos;
-      •	Desenvolvimento em Camadas (Model, DAL, BLL) ;
-      •	Bons conhecimentos de Arquitetura de Software (Domain Model e Repository);
-  </p> 
-</dvi>
+  <div>
+    <div>
+      <p>
+        <h3>Engenheiro de software C#</h3>
+        Hard skills:
+          •	Conhecimentos sólido da Linguagem C#;
+          •	Acesso à dados no SQL Server com ADO.NET;
+          •	Acesso à dados com ORM´s Entity Framework e LinqToSQL;
+          •	Desenvolvimento de sistemas Web com ASP.NET Webforms e ASP.NET MVC;
+          •	Uso de HTML 5, CSS 3, JavaScript com JQuery;
+          •	Sólidos conhecimentos de Orientação a Objetos;
+          •	Desenvolvimento em Camadas (Model, DAL, BLL) ;
+          •	Bons conhecimentos de Arquitetura de Software (Domain Model e Repository);
+      </p> 
+    </dvi>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/ericknovais">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericknovais&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericknovais&layout=compact&langs_count=7&theme=github_dark"/>
