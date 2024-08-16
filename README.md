@@ -1,9 +1,10 @@
 
 # Prazer, sou Erick Novais da Hora
+<table>
+<div>
 <div>
   <p>
     <h3>Engenheiro de software C#</h3>
-
     Hard skills:
       •	Conhecimentos sólido da Linguagem C#;
       •	Acesso à dados no SQL Server com ADO.NET;
@@ -44,4 +45,5 @@
  <a href="https://www.linkedin.com/in/ericknovais" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:erick.hora@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
+</div>
+</table>
