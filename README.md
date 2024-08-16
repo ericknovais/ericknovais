@@ -1,5 +1,5 @@
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ericknovais&show_icons=true&theme=dark#gh-dark-mode-only)]
-# Prazer, sou Erick Novais da Hora 
+
+# Prazer, sou Erick Novais da Hora
 <div>
   <p>
     <h3>Engenheiro de software C#</h3>
