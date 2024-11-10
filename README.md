@@ -12,6 +12,13 @@
       •	Desenvolvimento web front-end (HTML 5, CSS 3, JavaScript com JQuery e Angular
       •	Desenvolvimento em Camadas (Model, DAL, BLL)
       •	Bons conhecimentos de Arquitetura de Software (Domain Model e Repository)
+    Soft Skills
+      •	Adaptabilidade e flexibilidade
+      •	Gestão do tempo
+      •	Atitude positiva
+      •	Comunicação e colaboração
+      •	Trabalho em equipe
+      •	Habilidades analíticas
   </p> 
 </dvi>
 
