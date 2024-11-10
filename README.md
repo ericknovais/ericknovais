@@ -1,18 +1,17 @@
 
-# Prazer, sou Erick Novais da Hora 
+# Prazer, sou Da Hora 
 <div>
   <p>
     <h3>Engenheiro de software C#</h3>
-
+    
     Hard skills:
-      •	Conhecimentos sólido da Linguagem C#;
-      •	Acesso à dados no SQL Server com ADO.NET;
-      •	Acesso à dados com ORM´s Entity Framework e LinqToSQL;
-      •	Desenvolvimento de sistemas Web com ASP.NET Webforms e ASP.NET MVC;
-      •	Uso de HTML 5, CSS 3, JavaScript com JQuery;
-      •	Sólidos conhecimentos de Orientação a Objetos;
-      •	Desenvolvimento em Camadas (Model, DAL, BLL) ;
-      •	Bons conhecimentos de Arquitetura de Software (Domain Model e Repository);
+      •	Sólidos conhecimentos e experiência em orientação a objetos e a linguagem C# .NET
+      •	Sólidos conhecimentos no  Sql Server (Querys se consulta, Stored procedure e trigger)
+      •	Sólidos conhecimentos em acesso à dados com a ADO.NET, ORM´s Entity Framework e LinqToSQL
+      •	Desenvolvimento de sistemas Web com ASP.NET Webforms, ASP.NET MVC, APIS WEB e Microsserviços
+      •	Desenvolvimento web front-end (HTML 5, CSS 3, JavaScript com JQuery e Angular
+      •	Desenvolvimento em Camadas (Model, DAL, BLL)
+      •	Bons conhecimentos de Arquitetura de Software (Domain Model e Repository)
   </p> 
 </dvi>
 
