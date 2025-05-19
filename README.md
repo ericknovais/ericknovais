@@ -1,6 +1,9 @@
 
 # Erick Novais da Hora - Desenvolvedor Back-End
 
+## Sobre mim
+Sou Erick Novais, desenvolvedor back-end sênior com mais de 6 anos de experiência em C# .NET e SQL Server. Tenho experiência em design de soluções escaláveis, desenvolvimento de APIs RESTful e microsserviços, e sou apaixonado por criar sistemas eficientes e de alto desempenho. Ao longo da minha carreira, trabalhei em diversos projetos que impactaram diretamente a produtividade e qualidade das empresas em que colaborei. Além disso, estou sempre em busca de aprendizado contínuo para aprimorar minhas habilidades.
+
 ## 💻 Hard Skills:
 
 ### **Programação e Desenvolvimento:**
@@ -17,7 +20,7 @@
 ### **Ferramentas e Tecnologias**:
 - **Git**: Uso avançado de Git e GitFlow para controle de versão e colaboração em equipe.
 - **Docker**: Experiência em containerização de aplicações com Docker para garantir portabilidade e consistência.
-- **DevOps**: Conhecimento de ferramentas de CI/CD (ex.: Azure DevOps) para automação de pipelines.
+- **DevOps**: Conhecimento de ferramentas de CI/CD Azure DevOps para automação de pipelines.
 
 ---
 
