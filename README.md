@@ -64,24 +64,7 @@ Sempre estou aberto a feedbacks construtivos, pois acredito que o crescimento co
 <div align="center">
   <a href="https://github.com/ericknovais">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericknovais&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericknovais&layout=compact&langs_count=7&theme=github_dark"/>
-    
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Erick-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  -
-  <img align="center" alt="Erick-SqlServer" height="25" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
-  -
-  <img align="center" alt="Erick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  -
-  <img align="center" alt="Erick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  -
-  <img align="center" alt="Erick-JavaScrits" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
-  -
-  <img align="center" alt="Erick-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg">
-  -
-  <img align="center" alt="Erick-jquery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="right"  height="150" style="border-radius:50px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericknovais&layout=compact&langs_count=7&theme=github_dark"/>    
 </div>
 <div> 
  <br> 
