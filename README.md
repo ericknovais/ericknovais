@@ -62,14 +62,13 @@ Sou uma pessoa proativa, sempre buscando a melhoria contínua. Minha combinaçã
 Sempre estou aberto a feedbacks construtivos, pois acredito que o crescimento contínuo é a chave para melhorar tanto como profissional quanto como pessoa.
 
 ---
-## Git:
+## Github Stats:
 <div align="left">
   <a href="https://github.com/ericknovais">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ericknovais&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ericknovais&layout=compact&langs_count=7&theme=github_dark"/>    
 </div>
-    
----
+  
 ## Contatos:
 <div> 
  <br> 
